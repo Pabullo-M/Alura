@@ -1,0 +1,5 @@
+#1/bin/sh
+
+git --git-dir="C:\Users\savanna alves\OneDrive\Área de Trabalho\Pabullo\Alura\servidor" --work-tree="C:\Users\savanna alves\OneDrive\Área de Trabalho\Pabullo\Alura" checkout -f
+
+
